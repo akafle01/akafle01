@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋/h1>
-<h3 align="center">I'm Abhishek, a results-oriented and innovative Computer Engineer with a bachelor's degree, brining over 3+ years of IT experience with a key focus on Software Development, Artificial Intelligence, and Machine Learning to solve real world complex problems.</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">I am Abhishek, a results-oriented and innovative Computer Engineer with a bachelor's degree, brining over 3+ years of IT experience with a key focus on Software Development, Artificial Intelligence, and Machine Learning to solve real world complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akafle01&label=Profile%20views&color=0e75b6&style=flat" alt="akafle01" /> </p>
 
