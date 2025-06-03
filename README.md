@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Cloud Architectures**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning and data-related projects**
 
 - 🤝 I’m looking for opportunities in **Data/Cloud/ML Engineering**
 
-- 💬 Ask me about **machine learning projects, aws services, data management**
+- 💬 Ask me about **machine learning projects, aws services, data management best practices**
 
 - 📫 How to reach me **kafle.abbi@gmail.com**
 
-- ⚡ Fun fact **I love creating motorcycle content every-now and then.**
+- ⚡ Fun fact **I love being invloved in data projects that can advance my career in the field of data/AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
