@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for opportunities in **Data/Cloud/ML Engineering**
 
-- 💬 Ask me about **machine learning projects, aws services, data management best practices**
+- 💬 Ask me about **data migration**
 
 - 📫 How to reach me **kafle.abbi@gmail.com**
 
